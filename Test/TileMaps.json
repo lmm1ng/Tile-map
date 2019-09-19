@@ -1,27 +1,22 @@
 [
     {
-    "id": 1,
-    "cityName": "StPet",
-    "amountValue": "red"
+    "regionId": 1,
+    "colorId": 15
     },
     {
-    "id": 2,
-    "cityName": "MyrmankObl",
-    "amountValue": "blue"
+    "regionId": 2,
+    "colorId": 30
     },
     {
-    "id": 3,
-    "cityName": "LeninObl",
-    "amountValue": "green"
+    "regionId": 3,
+    "colorId": 45
     },
     {
-    "id": 4,
-    "cityName": "NovgObl",
-    "amountValue": "yellow"
+    "regionId": 4,
+    "colorId": 60
     },
     {
-    "id": 5,
-    "cityName": "VologodObl",
-    "amountValue": "black"
+    "regionId": 5,
+    "colorId": 75
     }
     ]
