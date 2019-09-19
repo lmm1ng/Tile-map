@@ -1,27 +1,27 @@
 [
     {
     "id": 1,
-    "cityName": "Moscow",
-    "amountValue": 100
+    "cityName": "StPet",
+    "amountValue": "red"
     },
     {
     "id": 2,
-    "cityName": "Peterburg",
-    "amountValue": 90
+    "cityName": "MyrmankObl",
+    "amountValue": "blue"
     },
     {
     "id": 3,
-    "cityName": "Ural",
-    "amountValue": 60
+    "cityName": "LeninObl",
+    "amountValue": "green"
     },
     {
     "id": 4,
-    "cityName": "Dagestan",
-    "amountValue": 30
+    "cityName": "NovgObl",
+    "amountValue": "yellow"
     },
     {
     "id": 5,
-    "cityName": "Syberia",
-    "amountValue": 80
+    "cityName": "VologodObl",
+    "amountValue": "black"
     }
     ]
