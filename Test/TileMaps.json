@@ -1,22 +1,22 @@
 [
     {
     "regionId": 1,
-    "colorId": 15
+    "colorId": 1
     },
     {
     "regionId": 2,
-    "colorId": 30
+    "colorId": 2
     },
     {
     "regionId": 3,
-    "colorId": 45
+    "colorId": 3
     },
     {
     "regionId": 4,
-    "colorId": 60
+    "colorId": 4
     },
     {
     "regionId": 5,
-    "colorId": 75
+    "colorId": 5
     }
     ]
