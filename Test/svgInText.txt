@@ -109,15 +109,9 @@
   <text id="text693" transform="translate(344.21 90.28)" font-family="MyriadPro-Regular, Myriad Pro" font-size="4.3">Ир<tspan id="tspan667" x="5.28" y="0" letter-spacing=".01em">к</tspan><tspan id="tspan669" x="7.37" y="0" letter-spacing=".02em">у</tspan><tspan id="tspan671" x="9.49" y="0" letter-spacing="-.02em">т</tspan><tspan id="tspan673" x="11.17" y="0">с</tspan><tspan id="tspan675" x="13.1" y="0" letter-spacing=".01em">к</tspan><tspan id="tspan677" x="15.21" y="0" letter-spacing=".01em">а</tspan><tspan id="tspan679" x="17.31" y="0" letter-spacing="0em">я</tspan><tspan id="tspan681" x="2.33" y="4.3">о</tspan><tspan id="tspan683" x="4.69" y="4.3" letter-spacing="0em">б</tspan><tspan id="tspan685" x="6.98" y="4.3">ла</tspan><tspan id="tspan687" x="11.24" y="4.3" letter-spacing=".02em">с</tspan><tspan id="tspan689" x="13.23" y="4.3" letter-spacing="-.01em">т</tspan><tspan id="tspan691" x="14.97" y="4.3">ь</tspan></text>
  </g>
  <g id="g2961">
-  <g id="g8090">
-   <g id="g8075" clip-path="url(#clipPath8077)">
-    <g id="g8073">
-     <rect id="RUS-2613" x="366.35" y="107.62" width="21.87" height="13.27" fill="#ff6"/>
-    </g>
-   </g>
-   <text id="text705" transform="translate(367.52 113.63)" font-family="MyriadPro-Regular, Myriad Pro" font-size="4.3">Еврейс<tspan id="tspan695" x="13.18" y="0" letter-spacing=".01em">к</tspan><tspan id="tspan697" x="15.29" y="0" letter-spacing=".01em">а</tspan><tspan id="tspan699" x="17.39" y="0">я</tspan><tspan id="tspan701" x="7" y="4.3" letter-spacing="-.01em">А</tspan><tspan id="tspan703" x="9.57" y="4.3">О</tspan></text>
+    <rect id="RUS-2613" x="366.35" y="107.62" width="21.87" height="13.27" fill="#ff6"/>
+    <text id="text705" transform="translate(367.52 113.63)" font-family="MyriadPro-Regular, Myriad Pro" font-size="4.3">Еврейс<tspan id="tspan695" x="13.18" y="0" letter-spacing=".01em">к</tspan><tspan id="tspan697" x="15.29" y="0" letter-spacing=".01em">а</tspan><tspan id="tspan699" x="17.39" y="0">я</tspan><tspan id="tspan701" x="7" y="4.3" letter-spacing="-.01em">А</tspan><tspan id="tspan703" x="9.57" y="4.3">О</tspan></text>
   </g>
- </g>
  <g id="g2699">
   <rect id="RUS-2609" x="366.35" y="84.29" width="21.87" height="13.27" fill="#63a35f"/>
   <text id="text729" transform="translate(368.23 90.28)" font-family="MyriadPro-Regular, Myriad Pro" font-size="4.3">А<tspan id="tspan707" x="2.63" y="0" letter-spacing="-.01em">м</tspan><tspan id="tspan709" x="5.36" y="0" letter-spacing="0em">урс</tspan><tspan id="tspan711" x="11.76" y="0" letter-spacing=".01em">к</tspan><tspan id="tspan713" x="13.87" y="0" letter-spacing=".01em">а</tspan><tspan id="tspan715" x="15.97" y="0" letter-spacing="0em">я</tspan><tspan id="tspan717" x="1.36" y="4.3">О</tspan><tspan id="tspan719" x="4.33" y="4.3" letter-spacing="0em">б</tspan><tspan id="tspan721" x="6.61" y="4.3">ла</tspan><tspan id="tspan723" x="10.87" y="4.3" letter-spacing=".02em">с</tspan><tspan id="tspan725" x="12.87" y="4.3" letter-spacing="-.01em">т</tspan><tspan id="tspan727" x="14.61" y="4.3">ь</tspan></text>
