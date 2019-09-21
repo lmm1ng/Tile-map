@@ -1,22 +1,342 @@
 [
     {
-    "regionId": 1,
-    "colorId": 1
+      "regionId": "RUS-5482",
+      "colorId": 1
     },
     {
-    "regionId": 2,
-    "colorId": 2
+      "regionId": "RUS-283",
+      "colorId": 2
     },
     {
-    "regionId": 3,
-    "colorId": 3
+      "regionId": "RUS-3468",
+      "colorId": 3
     },
     {
-    "regionId": 4,
-    "colorId": 4
+      "regionId": "RUS-3200",
+      "colorId": 2
     },
     {
-    "regionId": 5,
-    "colorId": 5
+      "regionId": "RUS-2616",
+      "colorId": 3
+    },
+    {
+      "regionId": "RUS-2615",
+      "colorId": 5
+    },
+    {
+      "regionId": "RUS-2614",
+      "colorId": 1
+    },
+    {
+      "regionId": "RUS-2613",
+      "colorId": 2
+    },
+    {
+      "regionId": "RUS-2612",
+      "colorId": 3
+    },
+    {
+      "regionId": "RUS-2611",
+      "colorId": 4
+    },
+    {
+      "regionId": "RUS-2610",
+      "colorId": 5
+    },
+    {
+      "regionId": "RUS-2609",
+      "colorId": 1
+    },
+    {
+      "regionId": "RUS-2606",
+      "colorId": 2
+    },
+    {
+      "regionId": "RUS-2605",
+      "colorId": 3
+    },
+    {
+      "regionId": "RUS-2603",
+      "colorId": 4
+    },
+    {
+      "regionId": "RUS-2602",
+      "colorId": 5
+    },
+    {
+      "regionId": "RUS-2417",
+      "colorId": 1
+    },
+    {
+      "regionId": "RUS-2416",
+      "colorId": 2
+    },
+    {
+      "regionId": "RUS-2403",
+      "colorId": 3
+    },
+    {
+      "regionId": "RUS-2402",
+      "colorId": 4
+    },
+    {
+      "regionId": "RUS-2401",
+      "colorId": 5
+    },
+    {
+      "regionId": "RUS-2400",
+      "colorId": 1
+    },
+    {
+      "regionId": "RUS-2399",
+      "colorId": 2
+    },
+    {
+      "regionId": "RUS-2398",
+      "colorId": 3
+    },
+    {
+      "regionId": "RUS-2397",
+      "colorId": 4
+    },
+    {
+      "regionId": "RUS-2396",
+      "colorId": 5
+    },
+    {
+      "regionId": "RUS-2395",
+      "colorId": 1
+    },
+    {
+      "regionId": "RUS-2394",
+      "colorId": 2
+    },
+    {
+      "regionId": "RUS-2393",
+      "colorId": 3
+    },
+    {
+      "regionId": "RUS-2392",
+      "colorId": 4
+    },
+    {
+      "regionId": "RUS-2391",
+      "colorId": 5
+    },
+    {
+      "regionId": "RUS-2390",
+      "colorId": 1
+    },
+    {
+      "regionId": "RUS-2389",
+      "colorId": 2
+    },
+    {
+      "regionId": "RUS-2388",
+      "colorId": 3
+    },
+    {
+      "regionId": "RUS-2387",
+      "colorId": 4
+    },
+    {
+      "regionId": "RUS-2386",
+      "colorId": 5
+    },
+    {
+      "regionId": "RUS-2385",
+      "colorId": 1
+    },
+    {
+      "regionId": "RUS-2384",
+      "colorId": 2
+    },
+    {
+      "regionId": "RUS-2383",
+      "colorId": 3
+    },
+    {
+      "regionId": "RUS-2382",
+      "colorId": 4
+    },
+    {
+      "regionId": "RUS-2381",
+      "colorId": 5
+    },
+    {
+      "regionId": "RUS-2380",
+      "colorId": 1
+    },
+    {
+      "regionId": "RUS-2379",
+      "colorId": 2
+    },
+    {
+      "regionId": "RUS-2378",
+      "colorId": 3
+    },
+    {
+      "regionId": "RUS-2377",
+      "colorId": 4
+    },
+    {
+      "regionId": "RUS-2376",
+      "colorId": 5
+    },
+    {
+      "regionId": "RUS-2375",
+      "colorId": 1
+    },
+    {
+      "regionId": "RUS-2374",
+      "colorId": 2
+    },
+    {
+      "regionId": "RUS-2373",
+      "colorId": 3
+    },
+    {
+      "regionId": "RUS-2372",
+      "colorId": 4
+    },
+    {
+      "regionId": "RUS-2371",
+      "colorId": 5
+    },
+    {
+      "regionId": "RUS-2370",
+      "colorId": 1
+    },
+    {
+      "regionId": "RUS-2369",
+      "colorId": 2
+    },
+    {
+      "regionId": "RUS-2368",
+      "colorId": 3
+    },
+    {
+      "regionId": "RUS-2367",
+      "colorId": 4
+    },
+    {
+      "regionId": "RUS-2366",
+      "colorId": 5
+    },
+    {
+      "regionId": "RUS-2365",
+      "colorId": 1
+    },
+    {
+      "regionId": "RUS-2364",
+      "colorId": 2
+    },
+    {
+      "regionId": "RUS-2363",
+      "colorId": 3
+    },
+    {
+      "regionId": "RUS-2362",
+      "colorId": 4
+    },
+    {
+      "regionId": "RUS-2361",
+      "colorId": 5
+    },
+    {
+      "regionId": "RUS-2360",
+      "colorId": 1
+    },
+    {
+      "regionId": "RUS-2359",
+      "colorId": 2
+    },
+    {
+      "regionId": "RUS-2358",
+      "colorId": 4
+    },
+    {
+      "regionId": "RUS-2357",
+      "colorId": 3
+    },
+    {
+      "regionId": "RUS-2356",
+      "colorId": 5
+    },
+    {
+      "regionId": "RUS-2355",
+      "colorId": 1
+    },
+    {
+      "regionId": "RUS-2354",
+      "colorId": 2
+    },
+    {
+      "regionId": "RUS-2353",
+      "colorId": 3
+    },
+    {
+      "regionId": "RUS-2343",
+      "colorId": 4
+    },
+    {
+      "regionId": "RUS-2342",
+      "colorId": 5
+    },
+    {
+      "regionId": "RUS-2337",
+      "colorId": 1
+    },
+    {
+      "regionId": "RUS-2336",
+      "colorId": 2
+    },
+    {
+      "regionId": "RUS-2335",
+      "colorId": 3
+    },
+    {
+      "regionId": "RUS-2334",
+      "colorId": 4
+    },
+    {
+      "regionId": "RUS-2333",
+      "colorId": 5
+    },
+    {
+      "regionId": "RUS-2324",
+      "colorId": 1
+    },
+    {
+      "regionId": "RUS-2321",
+      "colorId": 2
+    },
+    {
+      "regionId": "RUS-2306",
+      "colorId": 3
+    },
+    {
+      "regionId": "RUS-2305",
+      "colorId": 4
+    },
+    {
+      "regionId": "RUS-2304",
+      "colorId": 5
+    },
+    {
+      "regionId": "RUS-2303",
+      "colorId": 1
+    },
+    {
+      "regionId": "RUS-2280",
+      "colorId": 2
+    },
+    {
+      "regionId": "RUS-2279",
+      "colorId": 3
+    },
+    {
+      "regionId": "RUS-2167",
+      "colorId": 4
     }
-    ]
+   ]
